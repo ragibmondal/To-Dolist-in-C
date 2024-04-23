@@ -27,6 +27,9 @@ To run this C project, follow these steps:
 
 Phantom Troupe  
 1.Ragib Hasan.
+
 2.Afridi Hassan Rafi.
+
 3.Tanha Tabassum Autoshi .
+
 **NB:** This project does not support running in VS Code
