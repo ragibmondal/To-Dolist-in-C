@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//This project does not support running in VS Code for some modules
 typedef struct Todo {
     char *buffer;
     int count;
