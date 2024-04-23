@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 //This project does not support running in VS Code for some modules
+// it supports only codeblocks
+//for documentation you can visit  https://github.com/ragibmondal/To-Dolist-in-C/blob/main/README.md
 typedef struct Todo {
     char *buffer;
     int count;
