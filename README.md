@@ -22,9 +22,6 @@ To run this C project, follow these steps:
 
 **Note**: These instructions are only for Windows PCs.
 
-**License**
-
-This project is licensed under [insert license here, e.g. MIT License].
 
 **Author**
 
